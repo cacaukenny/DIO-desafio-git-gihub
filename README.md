@@ -3,6 +3,7 @@ Repositório para entrega do primeiro desafio de código do curto de Jogos da DI
 
 ## 📖 Links úteis
 - [Markdown Guide](https://www.markdownguide.org)
+- [Markdown Guide GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Manual GitHub Inicial](https://docs.github.com/pt/get-started)
 
 
@@ -16,7 +17,7 @@ Repositório para entrega do primeiro desafio de código do curto de Jogos da DI
 | git mkdir | Cria uma pasta na branch |
 | git pull | "Puxa" as alterações do repositório |
 | git push | "Empurra" as alterações do repositório | 
-
+| touch | Cria um arquivo vazio |
 
 ## ⌨️ Atalhos de teclado
 
